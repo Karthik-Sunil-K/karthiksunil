@@ -42,3 +42,6 @@ transition: 0.2s;
 .com{
     text-shadow: black;
 }
+body{
+    margin: 0;
+}
