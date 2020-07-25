@@ -6,6 +6,31 @@
     font-style: italic;
     text-shadow: blue;
 }
+
+* {box-sizing: border-box}
+        .containersk {
+        width: 100%;
+        background-color:#ddd;
+        }
+        
+        .main{
+          background-color: #ddd;
+        }
+        
+        .skills {
+          text-align: right;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          color: white;
+        }
+        .html {width: 92%;}
+        .css {width: 90%;}
+        .js {width: 40%;}
+        .bootstrap {width: 98%;}
+        .c {width: 60%;}
+        .node {width: 15%;}
+        .flutter {width: 20%;}
+        
 .fa{
  padding-top: 15px;   
  padding-bottom: 25px;
